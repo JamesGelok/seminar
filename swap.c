@@ -9,6 +9,9 @@ int main(void)
     printf("y is %i\n", y);
     
     // swapping...
+    int temp = x;
+    x = y;
+    y = temp;
     
     // This comment is on line 13cd
     
