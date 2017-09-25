@@ -10,6 +10,8 @@ int main(void)
     
     // swapping...
     
+    // This comment is on line 13
+    
     printf("x is now %i\n", x);
     printf("y is now %i\n", y);
 }
